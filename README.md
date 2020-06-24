@@ -15,9 +15,6 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-  <a href="https://github.com/JonasCastro/store-financial-transactions/stargazers">
-    <img alt="Stargazers" src="https://img.shields.io/github/stars/jonascastro/store-financial-transactions?style=social">
-  </a>
      <a href="https://rocketseat.com.br/">
     <img alt="Template Rocketseat" src="https://img.shields.io/badge/Template%20-Rocketseat-%2304D361">
   </a>
@@ -26,9 +23,9 @@
 <p align="center">
   <a href="#rocket-sobre-o-desafio">Sobre o desafio</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#wrench-rotas-da-aplicação">Rotas da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#checkered_flag-execute-o-projeto-localmente">Execute o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#rotating_light-testes-da-aplicação">Testes da aplicação</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
+  <a href="#checkered_flag-execute-o-projeto-localmente">Execute o projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#memo-licença">Licença</a>
 </p>
 
 ## :rocket: Sobre o desafio
