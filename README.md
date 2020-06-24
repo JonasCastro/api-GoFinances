@@ -15,7 +15,7 @@
 
   <img alt="License" src="https://img.shields.io/badge/license-MIT-%2304D361">
 
-     <a href="https://rocketseat.com.br/">
+  <a href="https://rocketseat.com.br/">
     <img alt="Template Rocketseat" src="https://img.shields.io/badge/Template%20-Rocketseat-%2304D361">
   </a>
 </p>
