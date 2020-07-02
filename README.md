@@ -7,7 +7,7 @@
 <blockquote align="center"><a href="https://github.com/Rocketseat/gostack-template-fundamentos-node">Template para iniciar o desafio</a></blockquote>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonascastro/store-financial-transactions?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/jonascastro/api-GoFinances?color=%2304D361">
 
   <a href="https://www.linkedin.com/in/jonas-castro-b4044111a/">
     <img alt="Made by JonasCastro" src="https://img.shields.io/badge/made%20by-JonasCastro-%2304D361">
@@ -101,10 +101,13 @@ Nesse desafio, foi criado uma aplicação para armazenar transações financeira
 
 ```bash
 # Clone este repositório
-$ git clone https://github.com/JonasCastro/store-financial-transactions.git
+$ git clone https://github.com/JonasCastro/
+
+
+.git
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd store-financial-transactionsc
+$ cd api-GoFinances
 
 # Instale as dependências
 $ yarn
